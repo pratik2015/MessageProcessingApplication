@@ -1,0 +1,51 @@
+apple at 10p
+20 sales of apple at 10p each
+ABC at 10p
+multiply 2p apple
+apple at 10p
+20 sales of QWERT at 10p each
+apple at 10p
+ABC at 10p
+subtract 5p apple
+20 sales of XYZ at 10p each
+apple at 10p
+15 sales of XYZ at 10p each
+multiply 2p ABC
+XYZ at 10p
+ZXC at 10p
+add 20p QWERT
+20 sales of apple at 10p each
+add 20p apple
+apple at 10p
+20 sales of apple at 10p each
+ABC at 10p
+multiply 2p apple
+apple at 10p
+20 sales of QWERT at 10p each
+apple at 10p
+ABC at 10p
+subtract 5p apple
+20 sales of XYZ at 10p each
+apple at 10p
+15 sales of XYZ at 10p each
+multiply 2p ABC
+XYZ at 10p
+ZXC at 10p
+add 20p QWERT
+20 sales of apple at 10p each
+add 20p apple
+apple at 10p
+20 sales of QWERT at 10p each
+apple at 10p
+ABC at 10p
+subtract 5p apple
+20 sales of XYZ at 10p each
+apple at 10p
+15 sales of XYZ at 10p each
+multiply 2p ABC
+apple at 10p
+20 sales of apple at 10p each
+ABC at 10p
+multiply 2p apple
+20 sales of XYZ at 10p each
+add 20p QWERT
